@@ -1,0 +1,7 @@
+리더링크 : https://github.com/choi-ik-tae/FinalProject.git
+cmd 창 켜기
+해당 workspace 이동
+- git init
+- git remote add 네임 리더링크
+- git remote -v
+- git pull 네임 master // 리더링크로부터 땡겨오기
